@@ -1,0 +1,6 @@
+before_script:
+  - npm -v
+  - node -v
+test:
+  script: 
+    echo "je suis un test"  
