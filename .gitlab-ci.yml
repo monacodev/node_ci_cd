@@ -3,6 +3,4 @@ before_script:
   - node -v
 test:
   script: 
-
-    - ruby --version 
     - echo "je suis un test"  
